@@ -45,7 +45,7 @@ divididas em duas classes: covid e normal.
         Random Forest:  -trocar os resultados 
         Support Vector Machine:  -trocar os resultados 
         
-         HuMoments:
+        HuMoments:
         Multilayer Perceptron:  -trocar os resultados 
         Random Forest:   -trocar os resultados 
         Support Vector Machine:   -trocar os resultados 
