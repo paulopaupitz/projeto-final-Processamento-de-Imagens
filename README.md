@@ -39,6 +39,28 @@ divididas em duas classes: covid e normal.
 
 
 ## Classificador e acurácia
+
+        Histogram of Oriented Gradients Discretor:
+        Multilayer Perceptron:  -trocar os resultados 
+        Random Forest:  -trocar os resultados 
+        Support Vector Machine:  -trocar os resultados 
+        
+         HuMoments:
+        Multilayer Perceptron:  -trocar os resultados 
+        Random Forest:   -trocar os resultados 
+        Support Vector Machine:   -trocar os resultados 
+
+        Haralicks:
+        Multilayer Perceptron:   -trocar os resultados 
+        Random Forest:   -trocar os resultados 
+        Support Vector Machine:   -trocar os resultados 
+
+        Scale-Invariant Feature Transform:
+        Multilayer Perceptron:   -trocar os resultados 
+        Random Forest:  -trocar os resultados 
+        Support Vector Machine:  -trocar os resultados 
+
+ 
  
 ## Referência
 
