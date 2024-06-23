@@ -22,31 +22,19 @@ divididas em duas classes: covid e normal.
 - **Hu Moments**: Invariância a transformações geométricas, útil para reconhecimento de formas.
 - **SIFT**: Detecção e descrição de pontos de interesse invariantes a escala e rotação.
 
-## Repositório
+##  Link do Repositório
  [Repositório](https://github.com/paulopaupitz/projeto-final-Processamento-de-Imagens)
 
+ ##  Link do Video de Apresentação 
+[Apresentação](https://youtu.be/tbCbBJCzYC8)
 
 ## Classificador e acurácia
 
-        Local Binary Pattern:
-        Multilayer Perceptron:  -trocar os resultados 
-        Random Forest:  -trocar os resultados 
-        Support Vector Machine:  -trocar os resultados 
-        
-        HuMoments:
-        Multilayer Perceptron:  -trocar os resultados 
-        Random Forest:   -trocar os resultados 
-        Support Vector Machine:   -trocar os resultados 
-
-        Haralicks:
-        Multilayer Perceptron:   -trocar os resultados 
-        Random Forest:   -trocar os resultados 
-        Support Vector Machine:   -trocar os resultados 
-
-        Scale-Invariant Feature Transform:
-        Multilayer Perceptron:   -trocar os resultados 
-        Random Forest:  -trocar os resultados 
-        Support Vector Machine:  -trocar os resultados 
+    Local Binary Pattern:
+        Multilayer Perceptron: 89.29%  
+        Random Forest: 89.29% 
+        Support Vector Machine: 91.07%  
+   
 
  
  
