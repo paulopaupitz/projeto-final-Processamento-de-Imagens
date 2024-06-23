@@ -16,12 +16,12 @@ divididas em duas classes: covid e normal.
 
 
 ## Descritores implementados
-
-- **LBP**: Análise de textura local, simples e eficiente.
-- **Hu Moments**: Invariância a transformações geométricas, útil para reconhecimento de formas.
+- **Histograma de cinza**: Ajusta e analisa os níveis de cinza de uma imagem.
 - **Haralick Features**: Análise detalhada de textura baseada na coocorrência de pixels.
+- **Hu Moments**: Invariância a transformações geométricas, útil para reconhecimento de formas.
+- **LBP**: Análise de textura local, simples e eficiente.
 - **SIFT**: Detecção e descrição de pontos de interesse invariantes a escala e rotação.
-- 
+
 ## Repositório
  [Repositório](https://github.com/paulopaupitz/projeto-final-Processamento-de-Imagens)
 
