@@ -15,25 +15,13 @@ divididas em duas classes: covid e normal.
 - [@Juliaalkmin](https://www.github.com/Juliaalkmin)
 
 
-## Descritores implementados 
- - **HOG(Histogram of Oriented Gradients Discretor):**
-        Função: Captura de bordas e gradientes.
-        Características: Histogramas de gradientes orientados, normalização.
-        
- - **Hu Moments:**
-        Função: Extração de forma invariável.
-        Características: Sete momentos invariantes.
-        
- - **Haralick Features:**
-        Função: Extração de textura.
-        Características: Contraste, homogeneidade, energia, correlação.
-        
-  - **SIFT(Scale-Invariant Feature Transform):**
-        Função: Detecção e descrição de características locais.
-        Características: Pontos chave, descritores locais.
-        
-            
+## Descritores implementados
 
+- **LBP**: Análise de textura local, simples e eficiente.
+- **Hu Moments**: Invariância a transformações geométricas, útil para reconhecimento de formas.
+- **Haralick Features**: Análise detalhada de textura baseada na coocorrência de pixels.
+- **SIFT**: Detecção e descrição de pontos de interesse invariantes a escala e rotação.
+- 
 ## Repositório
  [Repositório](https://github.com/paulopaupitz/projeto-final-Processamento-de-Imagens)
 
