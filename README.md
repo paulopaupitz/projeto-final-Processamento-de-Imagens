@@ -16,10 +16,10 @@ divididas em duas classes: covid e normal.
 
 
 ## Descritores implementados
+- **LBP**: Análise de textura local, simples e eficiente.
 - **Histograma de cinza**: Ajusta e analisa os níveis de cinza de uma imagem.
 - **Haralick Features**: Análise detalhada de textura baseada na coocorrência de pixels.
 - **Hu Moments**: Invariância a transformações geométricas, útil para reconhecimento de formas.
-- **LBP**: Análise de textura local, simples e eficiente.
 - **SIFT**: Detecção e descrição de pontos de interesse invariantes a escala e rotação.
 
 ## Repositório
@@ -28,7 +28,7 @@ divididas em duas classes: covid e normal.
 
 ## Classificador e acurácia
 
-        Histogram of Oriented Gradients Discretor:
+        Local Binary Pattern:
         Multilayer Perceptron:  -trocar os resultados 
         Random Forest:  -trocar os resultados 
         Support Vector Machine:  -trocar os resultados 
